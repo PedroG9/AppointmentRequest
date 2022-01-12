@@ -1,3 +1,9 @@
-input.ng-invalid.ng-touched{
+body {
+   background-color: springgreen;
+}
+.container {
+   border-radius: 10px;
+}
+input.ng-invalid.ng-touched {
    border: 1px solid red; 
 }

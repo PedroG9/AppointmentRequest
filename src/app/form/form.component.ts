@@ -52,7 +52,7 @@ export class FormComponent implements OnInit {
 
     if (/^\d{8}[a-zA-Z]$/.test(value)){
       const numero = value.substr(0, value.length - 1);
-      const letra = 
+      
     }
   }
 }
